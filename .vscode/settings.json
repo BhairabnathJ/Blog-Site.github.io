@@ -1,0 +1,26 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/txt/Paragraphs.md"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "american",
+                "domain": "creative",
+                "emotions": [
+                    "confident",
+                    "joyful",
+                    "optimistic",
+                    "respectful",
+                    "friendly"
+                ],
+                "goals": [
+                    "inform",
+                    "describe",
+                    "tellStory"
+                ]
+            }
+        }
+    ]
+}
