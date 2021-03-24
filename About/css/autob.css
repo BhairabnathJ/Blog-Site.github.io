@@ -275,6 +275,9 @@ body {
 
 
 /* Parallax Scrolling */
+.container-1::selection{
+  color:rgba(165, 129, 64, 0.40);
+}
 
 .container-1 {
   display:block;
