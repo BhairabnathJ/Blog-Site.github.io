@@ -10,6 +10,11 @@
   color: rgba(24, 39, 51, 0.85);
 }
 
+/*Hidden Scrollbar */
+.element::-webkit-scrollbar {
+  width: 0 !important;
+}
+
 * {
   margin: 0;
   padding: 0;
