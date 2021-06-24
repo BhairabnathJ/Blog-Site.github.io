@@ -309,3 +309,11 @@ body {
   text-shadow: 50px rgba(24, 39, 51, 0.85) aa;
   text-align: center;
 }
+
+#image-space {
+  width: 25px;
+}
+
+.pj-21 {
+  width: 20px;
+}
